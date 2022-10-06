@@ -1,5 +1,6 @@
 
-Helo Alice!
+Hello Alice!
 How are you doing?
-I am doing good what about you?
+I am doing good. what about you?
+I am commiteing this on remote repo.
 
